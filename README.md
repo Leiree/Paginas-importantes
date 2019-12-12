@@ -18,10 +18,20 @@ https://slideslive.com/38921751/track-1-session-4
 Libros
 https://d2l.ai/index.html
 
+# Empresas importantes
+
+DeepMind
+
+Open IA
+
 # Papers
 
 Pix2Pix
 https://phillipi.github.io/pix2pix/
+
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+
+https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
 
 
 # Github
