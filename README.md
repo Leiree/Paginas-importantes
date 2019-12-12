@@ -12,17 +12,17 @@ https://miriadax.net/home
 
 # Deep Learning
 
-Netflix del deep learning
-https://slideslive.com/38921751/track-1-session-4
+Netflix del deep learning https://slideslive.com/38921751/track-1-session-4
 
-Libros
-https://d2l.ai/index.html
+Libros https://d2l.ai/index.html
 
 # Empresas importantes
 
-DeepMind
+DeepMind https://deepmind.com/
 
-Open IA
+Open IA https://openai.com/
+
+GoogleIA https://ai.google/
 
 # Papers
 
@@ -42,3 +42,12 @@ https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 # Revistas en castellano
 
 http://dataanalysis.blogs.uoc.edu/
+
+
+# ¿Jugamos?
+
+https://experiments.withgoogle.com/collection/ai
+
+https://playground.tensorflow.org/
+
+https://magenta.tensorflow.org/
