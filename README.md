@@ -17,3 +17,13 @@ https://slideslive.com/38921751/track-1-session-4
 
 Libros
 https://d2l.ai/index.html
+
+# Papers
+
+Pix2Pix
+https://phillipi.github.io/pix2pix/
+
+
+# Github
+
+https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
