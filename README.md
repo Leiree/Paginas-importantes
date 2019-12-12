@@ -28,3 +28,7 @@ https://phillipi.github.io/pix2pix/
 
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 
+
+# Revistas encastellano
+
+http://dataanalysis.blogs.uoc.edu/
