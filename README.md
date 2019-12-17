@@ -16,6 +16,9 @@ Netflix del deep learning https://slideslive.com/38921751/track-1-session-4
 
 Libros https://d2l.ai/index.html
 
+# Machine learning
+
+Libro con formulas https://github.com/mml-book/mml-book.github.io
 # Empresas importantes
 
 DeepMind https://deepmind.com/
