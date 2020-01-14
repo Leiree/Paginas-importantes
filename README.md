@@ -46,6 +46,10 @@ https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 
 http://dataanalysis.blogs.uoc.edu/
 
+# R
+
+Libros https://www.elsaber21.com/descarga-32-libros-gratuitos-de-ciencia-de-datos-y-estadistica-en-r-espanol
+
 
 # ¿Jugamos?
 
