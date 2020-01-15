@@ -2,13 +2,13 @@
 
 # Cursos Gratis
 
-https://www.coursera.org/
+Coursera https://www.coursera.org/
 
-https://www.udacity.com/
+Udacity https://www.udacity.com/
 
-https://mooc.es/
+Mooc https://mooc.es/
 
-https://miriadax.net/home
+Miriadax https://miriadax.net/home
 
 # Libros
 
