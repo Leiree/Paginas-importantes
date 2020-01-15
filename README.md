@@ -1,4 +1,4 @@
-# Paginas-importantes
+# Paginas
 
 # Cursos Gratis
 
@@ -18,7 +18,7 @@ Machine learning con formulas https://github.com/mml-book/mml-book.github.io
 
 R https://www.elsaber21.com/descarga-32-libros-gratuitos-de-ciencia-de-datos-y-estadistica-en-r-espanol
 
-# Empresas importantes
+# Empresas punteras
 
 DeepMind https://deepmind.com/
 
@@ -69,3 +69,11 @@ https://experiments.withgoogle.com/collection/ai
 https://playground.tensorflow.org/
 
 https://magenta.tensorflow.org/
+
+# Tensorflow
+
+https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
+
+https://www.tensorflow.org/hub
+
+https://tfhub.dev/s?module-type=text-embedding
