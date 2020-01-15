@@ -53,13 +53,17 @@ Libros https://www.elsaber21.com/descarga-32-libros-gratuitos-de-ciencia-de-dato
 
 # Youtube
 
-https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ/featured
+Descubriendo la Inteligencia Artificial https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ/featured
 
-https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ
+AMP Tech https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ
 
-https://www.youtube.com/channel/UCLJV54sFqPiH4MYcJKvGesg
+Ligdi Gonzalez https://www.youtube.com/channel/UCLJV54sFqPiH4MYcJKvGesg
 
-https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg
+Dot CSV https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg
+
+Siraj Raval https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
+sentdex https://www.youtube.com/user/sentdex
 
 
 # ¿Jugamos?
