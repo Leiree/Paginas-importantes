@@ -19,6 +19,7 @@ Libros https://d2l.ai/index.html
 # Machine learning
 
 Libro con formulas https://github.com/mml-book/mml-book.github.io
+
 # Empresas importantes
 
 DeepMind https://deepmind.com/
@@ -49,6 +50,16 @@ http://dataanalysis.blogs.uoc.edu/
 # R
 
 Libros https://www.elsaber21.com/descarga-32-libros-gratuitos-de-ciencia-de-datos-y-estadistica-en-r-espanol
+
+# Youtube
+
+https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ/featured
+
+https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ
+
+https://www.youtube.com/channel/UCLJV54sFqPiH4MYcJKvGesg
+
+https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg
 
 
 # ¿Jugamos?
