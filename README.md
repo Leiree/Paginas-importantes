@@ -10,15 +10,13 @@ https://mooc.es/
 
 https://miriadax.net/home
 
-# Deep Learning
+# Libros
 
-Netflix del deep learning https://slideslive.com/38921751/track-1-session-4
+Deep Learning https://d2l.ai/index.html
 
-Libros https://d2l.ai/index.html
+Machine learning con formulas https://github.com/mml-book/mml-book.github.io
 
-# Machine learning
-
-Libro con formulas https://github.com/mml-book/mml-book.github.io
+R https://www.elsaber21.com/descarga-32-libros-gratuitos-de-ciencia-de-datos-y-estadistica-en-r-espanol
 
 # Empresas importantes
 
@@ -30,8 +28,7 @@ GoogleIA https://ai.google/
 
 # Papers
 
-Pix2Pix
-https://phillipi.github.io/pix2pix/
+Pix2Pix https://phillipi.github.io/pix2pix/
 
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
@@ -47,9 +44,6 @@ https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 
 http://dataanalysis.blogs.uoc.edu/
 
-# R
-
-Libros https://www.elsaber21.com/descarga-32-libros-gratuitos-de-ciencia-de-datos-y-estadistica-en-r-espanol
 
 # Youtube
 
@@ -63,7 +57,9 @@ Dot CSV https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg
 
 Siraj Raval https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 
-sentdex https://www.youtube.com/user/sentdex
+Sentdex https://www.youtube.com/user/sentdex
+
+Deep Learning https://slideslive.com/38921751/track-1-session-4
 
 
 # ¿Jugamos?
