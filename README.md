@@ -59,8 +59,9 @@ Siraj Raval https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 
 Sentdex https://www.youtube.com/user/sentdex
 
-Deep Learning https://slideslive.com/38921751/track-1-session-4
+Lex Fridman https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA
 
+Deep Learning https://slideslive.com/38921751/track-1-session-4
 
 # ¿Jugamos?
 
