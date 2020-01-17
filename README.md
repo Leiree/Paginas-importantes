@@ -1,6 +1,6 @@
 # Paginas
 
-# Cursos Gratis
+# Cursos
 
 Coursera https://www.coursera.org/
 
@@ -62,6 +62,12 @@ Sentdex https://www.youtube.com/user/sentdex
 Lex Fridman https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA
 
 Deep Learning https://slideslive.com/38921751/track-1-session-4
+
+# Concursos
+
+Kaggle https://www.kaggle.com/
+
+AIcrowd https://www.aicrowd.com/
 
 # ¿Jugamos?
 
