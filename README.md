@@ -34,6 +34,7 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf
 
+https://arxiv.org/pdf/1804.03608.pdf
 
 # Github
 
