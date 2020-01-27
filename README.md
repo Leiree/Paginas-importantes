@@ -70,6 +70,10 @@ Kaggle https://www.kaggle.com/
 
 AIcrowd https://www.aicrowd.com/
 
+# Algoritmos
+
+Cluster https://iartificial.net/clustering-agrupamiento-kmeans-ejemplos-en-python/
+
 # ¿Jugamos?
 
 https://experiments.withgoogle.com/collection/ai
