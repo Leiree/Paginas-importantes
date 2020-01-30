@@ -45,6 +45,9 @@ https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 
 http://dataanalysis.blogs.uoc.edu/
 
+# Revistas
+
+https://www.freecodecamp.org/news/
 
 # Youtube
 
