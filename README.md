@@ -40,14 +40,13 @@ https://arxiv.org/pdf/1804.03608.pdf
 
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 
+# Revistas
+
+https://www.freecodecamp.org/news/
 
 # Revistas en castellano
 
 http://dataanalysis.blogs.uoc.edu/
-
-# Revistas
-
-https://www.freecodecamp.org/news/
 
 # Youtube
 
