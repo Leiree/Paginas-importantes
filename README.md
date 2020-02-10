@@ -40,6 +40,8 @@ https://arxiv.org/pdf/1804.03608.pdf
 
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 
+Series de tiempo https://github.com/giotto-ai/giotto-time
+
 # Revistas
 
 https://www.freecodecamp.org/news/
