@@ -42,6 +42,8 @@ https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 
 Series de tiempo https://github.com/giotto-ai/giotto-time
 
+https://joaquinamatrodrigo.github.io/
+
 # Revistas
 
 https://www.freecodecamp.org/news/
