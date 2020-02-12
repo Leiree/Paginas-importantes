@@ -36,6 +36,8 @@ https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Pa
 
 https://arxiv.org/pdf/1804.03608.pdf
 
+https://distill.pub/2020/growing-ca/
+
 # Github
 
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
