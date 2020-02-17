@@ -118,3 +118,6 @@ CS230 Deep Learning
 * Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 * Cheat sheets: https://stanford.edu/~shervine/teaching/cs-230/
 
+# Análisis exploratorio
+
+https://medium.com/saturdays-ai/an%C3%A1lisis-exploratorio-de-datos-con-pandas-profiling-cf13e0e4a8f5
