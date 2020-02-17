@@ -82,6 +82,8 @@ AIcrowd https://www.aicrowd.com/
 
 Cluster https://iartificial.net/clustering-agrupamiento-kmeans-ejemplos-en-python/
 
+Deep https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
+
 # ¿Jugamos?
 
 https://experiments.withgoogle.com/collection/ai
