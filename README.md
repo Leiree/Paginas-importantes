@@ -97,3 +97,24 @@ https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
 https://www.tensorflow.org/hub
 
 https://tfhub.dev/s?module-type=text-embedding
+
+# Stanford
+
+CS221 Artificial Intelligence
+
+* Website: https://stanford-cs221.github.io/autumn2019/ (with exams + solutions)
+* Lectures: https://www.youtube.com/watch?v=aIsgJJYrlXk&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=6&t=0s
+* Cheat sheets: https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-states-models
+
+CS229 Machine Learning
+
+* Website: http://cs229.stanford.edu/
+* Lectures: https://see.stanford.edu/Course/CS229
+* Cheat sheets: https://stanford.edu/~shervine/teaching/cs-229/
+
+CS230 Deep Learning
+
+* Website: https://cs230.stanford.edu/
+* Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+* Cheat sheets: https://stanford.edu/~shervine/teaching/cs-230/
+
