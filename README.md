@@ -78,6 +78,8 @@ Kaggle https://www.kaggle.com/
 
 AIcrowd https://www.aicrowd.com/
 
+NASA Python https://archive.org/details/comp3321/mode/2up/search/device
+
 # Algoritmos
 
 Cluster https://iartificial.net/clustering-agrupamiento-kmeans-ejemplos-en-python/
