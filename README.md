@@ -72,6 +72,8 @@ Lex Fridman https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA
 
 Deep Learning https://slideslive.com/38921751/track-1-session-4
 
+Deep Learning https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
 # Concursos
 
 Kaggle https://www.kaggle.com/
