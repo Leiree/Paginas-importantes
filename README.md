@@ -18,6 +18,8 @@ Machine learning con formulas https://github.com/mml-book/mml-book.github.io
 
 R https://www.elsaber21.com/descarga-32-libros-gratuitos-de-ciencia-de-datos-y-estadistica-en-r-espanol
 
+Ciencia de datos libros y cursos gratis https://hablandoendata.com/
+
 # Empresas punteras
 
 DeepMind https://deepmind.com/
