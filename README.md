@@ -26,7 +26,9 @@ DeepMind https://deepmind.com/
 
 Open IA https://openai.com/
 
-GoogleIA https://ai.google/
+Google IA https://ai.google/
+
+Facebook IA https://ai.facebook.com/
 
 # Papers
 
