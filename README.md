@@ -10,6 +10,8 @@ Mooc https://mooc.es/
 
 Miriadax https://miriadax.net/home
 
+https://www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/
+
 # Libros
 
 Deep Learning https://d2l.ai/index.html
