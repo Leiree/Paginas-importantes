@@ -44,6 +44,8 @@ https://arxiv.org/pdf/1804.03608.pdf
 
 https://distill.pub/2020/growing-ca/
 
+http://www.matthewtancik.com/nerf
+
 # Github
 
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
