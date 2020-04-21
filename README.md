@@ -135,3 +135,7 @@ CS230 Deep Learning
 # Análisis exploratorio
 
 https://medium.com/saturdays-ai/an%C3%A1lisis-exploratorio-de-datos-con-pandas-profiling-cf13e0e4a8f5
+
+# Visualizaciones
+
+https://www.visualcapitalist.com/oldest-companies/
