@@ -34,6 +34,8 @@ Facebook IA https://ai.facebook.com/
 
 # Papers
 
+Articulos con codigo https://paperswithcode.com/methods
+
 Articulos con codigo https://paperswithcode.com/sota
 
 Pix2Pix https://phillipi.github.io/pix2pix/
