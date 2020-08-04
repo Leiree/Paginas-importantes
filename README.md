@@ -100,6 +100,10 @@ Cluster https://iartificial.net/clustering-agrupamiento-kmeans-ejemplos-en-pytho
 
 Deep https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 
+# Github o paginas de personas
+
+Jay Alammar http://jalammar.github.io/
+
 # ¿Jugamos?
 
 https://experiments.withgoogle.com/collection/ai
