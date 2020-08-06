@@ -151,3 +151,7 @@ https://www.visualcapitalist.com/oldest-companies/
 # Libros que quiero leerme
 
 file:///C:/Users/ics/Downloads/DEEP%20LEARNING%20Introducci%C3%B3n%20pr%C3%A1ctica%20con%20Keras%20-%20Jordi%20Torres.pdf
+
+# Inspiracion
+
+https://www.wandb.com/
