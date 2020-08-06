@@ -106,6 +106,8 @@ Jay Alammar http://jalammar.github.io/
 
 Paper en 2 minutos https://www.wandb.com/
 
+Series de tiempo https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+
 # ¿Jugamos?
 
 https://experiments.withgoogle.com/collection/ai
