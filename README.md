@@ -100,9 +100,11 @@ Cluster https://iartificial.net/clustering-agrupamiento-kmeans-ejemplos-en-pytho
 
 Deep https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 
-# Github o paginas de personas
+# Paginas de personas
 
 Jay Alammar http://jalammar.github.io/
+
+Paper en 2 minutos https://www.wandb.com/
 
 # ¿Jugamos?
 
@@ -152,6 +154,3 @@ https://www.visualcapitalist.com/oldest-companies/
 
 file:///C:/Users/ics/Downloads/DEEP%20LEARNING%20Introducci%C3%B3n%20pr%C3%A1ctica%20con%20Keras%20-%20Jordi%20Torres.pdf
 
-# Inspiracion
-
-https://www.wandb.com/
