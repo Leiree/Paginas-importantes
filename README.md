@@ -50,6 +50,8 @@ https://distill.pub/2020/growing-ca/
 
 http://www.matthewtancik.com/nerf
 
+https://lllyasviel.github.io/PaintingLight/
+
 # Github
 
 https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
