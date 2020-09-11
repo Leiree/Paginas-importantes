@@ -112,6 +112,10 @@ Series de tiempo https://machinelearningmastery.com/time-series-forecasting-meth
 
 www.iartificial.net
 
+# Ejemplos de RMakdown
+
+https://rpubs.com/updragon/ggradar
+
 # ¿Jugamos?
 
 https://experiments.withgoogle.com/collection/ai
