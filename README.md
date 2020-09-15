@@ -104,6 +104,14 @@ Cluster https://iartificial.net/clustering-agrupamiento-kmeans-ejemplos-en-pytho
 
 Deep https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 
+# Series de tiempo
+
+Tutorial LSTM https://machinelearningmastery.com/reshape-input-data-long-short-term-memory-networks-keras/
+
+Tutorial LSTM https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+
+preparacion de la serie https://stats.stackexchange.com/questions/31387/is-it-necessary-to-detrend-and-decycle-time-series-data-when-using-machine-learn
+
 # Paginas de personas
 
 Jay Alammar http://jalammar.github.io/
