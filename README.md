@@ -120,6 +120,8 @@ Paper en 2 minutos https://www.wandb.com/
 
 Series de tiempo https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 
+Gan https://ajolicoeur.wordpress.com/
+
 www.iartificial.net
 
 # Ejemplos de RMakdown
