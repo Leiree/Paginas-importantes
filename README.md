@@ -146,6 +146,10 @@ https://www.tensorflow.org/hub
 
 https://tfhub.dev/s?module-type=text-embedding
 
+# Convolutional neural network
+
+https://scihub.wikicn.top/https://doi.org/10.1007/s13748-019-00203-0 (historia)
+
 # Stanford
 
 CS221 Artificial Intelligence
