@@ -178,7 +178,9 @@ https://medium.com/saturdays-ai/an%C3%A1lisis-exploratorio-de-datos-con-pandas-p
 
 https://www.visualcapitalist.com/oldest-companies/
 
-# Libros que quiero leerme
+# Apuntes
 
-file:///C:/Users/ics/Downloads/DEEP%20LEARNING%20Introducci%C3%B3n%20pr%C3%A1ctica%20con%20Keras%20-%20Jordi%20Torres.pdf
+https://awesomeopensource.com/project/EthicalML/awesome-production-machine-learning
+
+https://drive.google.com/drive/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--
 
