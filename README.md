@@ -184,3 +184,9 @@ https://awesomeopensource.com/project/EthicalML/awesome-production-machine-learn
 
 https://drive.google.com/drive/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--
 
+# Codigo limpio
+
+https://www.python.org/dev/peps/pep-0008/
+
+
+
