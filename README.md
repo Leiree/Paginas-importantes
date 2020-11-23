@@ -70,6 +70,8 @@ https://www.freecodecamp.org/news/
 
 http://dataanalysis.blogs.uoc.edu/
 
+https://www.technologyreview.es/
+
 # Youtube
 
 Descubriendo la Inteligencia Artificial https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ/featured
